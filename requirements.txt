@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain-core
+langchain-ollama
+langchain-community
+ddgs
+streamlit
+requests
